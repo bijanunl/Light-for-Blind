@@ -1,0 +1,96 @@
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.Properties.Resources.resources
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.Form1.resources
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\StartLoader.exe
+C:\Users\adit\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\StartLoader.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\bin\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\bin\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\bin\Debug\StartLoader.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\bin\Debug\StartLoader.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\obj\Debug\ReveScreenReader.Form1.resources
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\obj\Debug\ReveScreenReader.Properties.Resources.resources
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\bin\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\bin\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\bin\Debug\StartLoader.exe
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\bin\Debug\StartLoader.pdb
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\obj\Debug\ReveScreenReader.Form1.resources
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\obj\Debug\ReveScreenReader.Properties.Resources.resources
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\bin\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\bin\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\obj\Debug\ReveScreenReader.Form1.resources
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\obj\Debug\ReveScreenReader.Properties.Resources.resources
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\18.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\18.3.2018\ReveScreenReader 10.22pm Product v2 2008\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\bin\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\bin\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\obj\Debug\ReveScreenReader.Form1.resources
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\obj\Debug\ReveScreenReader.Properties.Resources.resources
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\18.3.2018\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\18.3.2018\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.Form1.resources
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\bin\Debug\ReveScreenReader.exe
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\bin\Debug\ReveScreenReader.pdb
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.Properties.Resources.resources
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\bin\Debug\ReveScreenReader.exe
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\bin\Debug\ReveScreenReader.pdb
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\bin\Debug\SpeechBuilder.exe
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\bin\Debug\SpeechBuilder.pdb
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ResolveAssemblyReference.cache
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.Form1.resources
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.Properties.Resources.resources
+G:\18.3.2018 exe\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.GenerateResource.Cache
+H:\REVE Source Code Submission 27.3.2018\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+H:\REVE Source Code Submission 27.3.2018\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.exe
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.pdb
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\ReveScreenReader.exe
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\ReveScreenReader.pdb
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.AssemblyReference.cache
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.Form1.resources
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.Properties.Resources.resources
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.GenerateResource.cache
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScreenReader.csproj.CoreCompileInputs.cache
+C:\Users\Bijan Paul\OneDrive\Desktop\ReveScreenReader\ReveScreenReader\obj\Debug\ReveScre.969E9CDE.Up2Date

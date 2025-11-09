@@ -1,0 +1,8 @@
+C:\Users\Bijan Paul\OneDrive\Desktop\BlindLight\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan Paul\OneDrive\Desktop\BlindLight\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan Paul\OneDrive\Desktop\BlindLight\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.AssemblyReference.cache
+C:\Users\Bijan Paul\OneDrive\Desktop\BlindLight\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan Paul\OneDrive\Desktop\BlindLight\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.cache
+C:\Users\Bijan Paul\OneDrive\Desktop\BlindLight\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Bijan Paul\OneDrive\Desktop\BlindLight\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan Paul\OneDrive\Desktop\BlindLight\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
